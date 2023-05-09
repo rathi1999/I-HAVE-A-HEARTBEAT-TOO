@@ -1,0 +1,83 @@
+body {
+    background-color: #C3E6E4;
+    font-family: 'Marcellus', serif;
+    align-items: center;
+    width: 1440px;
+}
+
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #4100f5;
+}
+
+#BoxCategory_3 {
+    background-color: #f5008b;
+}
+
+#BoxCategory_4 {
+    background-color: #e9f500;
+}
+
+#BoxCategory_5 {
+    background-color: #8300f5;
+}
+
+/* DIV BOX Color End */
+
+/* DIV bg Color Start */
+#Bg_1 {
+    background-color: #C3E6E4;
+}
+
+/* DIV bg Color End */
+
+/* Button 1 Start */
+.button {
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Marcellus', serif;
+    font-size: 36px;
+    margin-left: -349px;
+    margin-top: 28px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    padding: auto;
+
+
+}
+
+.button1 {
+    background-color: #F7F7F7;
+    color: rgb(0, 0, 0);
+    border: 4px solid #F7F7F7;
+    border-radius: 30px;
+    width: 262px;
+    height: 26px;
+}
+
+#paragraph {
+    font-family: 'Marcellus';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.fafa {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: none;
+}
